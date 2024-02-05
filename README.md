@@ -1,5 +1,6 @@
 # BDDTestAutomationFrameWork
  BDD framework without page objects.
+OS - UBUNTU 22.04
 
 Sturcture:
 Framework : Cucumber Framework.

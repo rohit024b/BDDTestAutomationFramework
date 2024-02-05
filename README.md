@@ -1,6 +1,8 @@
 # BDDTestAutomationFrameWork
  BDD framework without page objects.
 
+ OS- Windows OS
+
 Sturcture:
 Framework : Cucumber Framework.
 ProjectType : Maven Poject with POM.xlm (To add required dependencies).
